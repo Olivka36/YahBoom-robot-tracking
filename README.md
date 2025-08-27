@@ -7,6 +7,7 @@ Object tracking by robot based on YahBoom using segmentation method
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)  ![VNC](https://img.shields.io/badge/VNC-2C3E50?style=for-the-badge&logo=realvnc&logoColor=white)  ![PID Control](https://img.shields.io/badge/PID--Controller-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)  
 
+
 ### 🚀 Принцип работы:
 :one: Raspberry Pi 4 поднимает камеру, задаёт FPS (10–15), размеры кадра, пороги HSV и параметры привода    
 :two: OpenCV читает очередной кадр из видеопотока    
@@ -22,6 +23,7 @@ Object tracking by robot based on YahBoom using segmentation method
 
 Шаги 2–10 повторяются каждый кадр.
 
+
 ### 🖥 Интерфейс взаимодействия
 Для взаимодействия с системой создано приложение на PyQt.    
 Визуализация упрощает контроль работы алгоритмов и настройку системы.    
@@ -30,9 +32,10 @@ Object tracking by robot based on YahBoom using segmentation method
 
 Интерфейс поддерживает удалённое подключение через VNC.
 
-### :star2: Пример работы :star2:
 
-<p align="center">
+### :star2: Пример работы 
+
+<p align="left">
   <img src="example1.png" width="400"/>
   <img src="example2.png" width="400"/>
 </p>

@@ -1,4 +1,4 @@
-# YahBoom-robot-tracking 🏎
+# YahBoom_robot_tracking 🏎
 Object tracking by robot based on YahBoom using segmentation method
 
 ## Отслеживание объектов мобильным колесным роботом на базе Raspberry Pi 4 и платы расширения YahBoom :mag:

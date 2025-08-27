@@ -30,7 +30,12 @@ Object tracking by robot based on YahBoom using segmentation method
 
 Интерфейс поддерживает удалённое подключение через VNC.
 
-### :star2: Пример работы
+### :star2: Пример работы :star2:
 
-<img src="example1.png" width="400"/>
-<img src="example2.png" width="400"/>
+<p align="center">
+  <img src="example1.png" width="400"/>
+  <img src="example2.png" width="400"/>
+</p>
+
+
+
